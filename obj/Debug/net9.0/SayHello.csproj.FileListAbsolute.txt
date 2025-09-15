@@ -1,0 +1,15 @@
+/Users/josefanderberg/source/repos/SayHello/bin/Debug/net9.0/SayHello
+/Users/josefanderberg/source/repos/SayHello/bin/Debug/net9.0/SayHello.deps.json
+/Users/josefanderberg/source/repos/SayHello/bin/Debug/net9.0/SayHello.runtimeconfig.json
+/Users/josefanderberg/source/repos/SayHello/bin/Debug/net9.0/SayHello.dll
+/Users/josefanderberg/source/repos/SayHello/bin/Debug/net9.0/SayHello.pdb
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.AssemblyInfoInputs.cache
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.AssemblyInfo.cs
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.csproj.CoreCompileInputs.cache
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.sourcelink.json
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.dll
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/refint/SayHello.dll
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.pdb
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/SayHello.genruntimeconfig.cache
+/Users/josefanderberg/source/repos/SayHello/obj/Debug/net9.0/ref/SayHello.dll
